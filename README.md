@@ -55,6 +55,19 @@ I like projects where I can learn something new instead of making the same thing
   <img src="https://raw.githubusercontent.com/devypluggy/devypluggy/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 </p>
 
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/devypluggy/devypluggy/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake"
+      src="https://raw.githubusercontent.com/devypluggy/devypluggy/output/github-contribution-grid-snake.svg"
+      width="95%"
+    />
+  </picture>
+</p>
 
 </div>
 
