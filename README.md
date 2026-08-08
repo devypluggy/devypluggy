@@ -43,9 +43,18 @@ I like projects where I can learn something new instead of making the same thing
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=devypluggy&show_icons=true&theme=tokyonight&hide_border=true" height="170">
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devypluggy&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devypluggy&layout=compact&theme=tokyonight&hide_border=true" height="170">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devypluggy&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devypluggy/devypluggy/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+</p>
+
 
 </div>
 
