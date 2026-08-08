@@ -51,9 +51,7 @@ I like projects where I can learn something new instead of making the same thing
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devypluggy&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devypluggy/devypluggy/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-</p>
+<p align="center"> <img src="https://raw.githubusercontent.com/devypluggy/devypluggy/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D GitHub contribution graph" /> </p>
 
 </div>
 
