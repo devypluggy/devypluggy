@@ -5,7 +5,7 @@
 I'm a developer who likes building things, breaking things, and figuring out how they work.
 
 I mostly mess around with **game development, Minecraft, AI, automation and random software projects**.
-
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=devypluggy)](https://github.com/stats-organization/github-stats-extended)
 ---
 
 ## 🛠️ Tech I use
