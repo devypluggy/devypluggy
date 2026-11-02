@@ -12,7 +12,8 @@ I mostly mess around with **game development, Minecraft, AI, automation and rand
 **Languages**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
+![c++](https://img.shields.io/badge/c++-ED8B00?style=for-the-badge&logo=cpp&logoColor=white)
+![c#](https://img.shields.io/badge/c#-ED8B00?style=for-the-badge&logo=cs&logoColor=white)
 **Tools & frameworks**
 
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
