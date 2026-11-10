@@ -1,57 +1,116 @@
 <div align="center">
 
-# `devypluggy`
+```
+   __          __ _             __    __            
+  / /__  ___  / //_/___  __ __ / /__ / /  ___ ____  
+ / _  / / -_)/ ,<  / _ \/ // // // // _ \/ -_) __/  
+/_//_/  \__//_/|_|/ .__/\_,_//_//_//_.__/\__/_/     
+                 /_/                                 
+```
 
-### Systems & Game Developer • Crafting Engine-Level Mechanics & High-Load Architecture
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2500&pause=800&color=00FF66&center=true&vCenter=true&multiline=true&width=620&height=50&lines=INIT_CORE_KERNEL...%20OK;INJECTING%20DOORSTOP%20HOOKS...%20DONE;SYSTEM%20STABLE%20%7C%20LOW-LEVEL%20ACTIVE)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=61AFEF&center=true&vCenter=true&width=500&lines=Game+Development+%26+Engine+Internals;Minecraft+High-Load+Server+Cores;Automated+Workflows+%26+Low-Level+Tooling;Performance+Optimization+%26+Reverse+Engineering)](https://git.io/typing-svg)
+---
 
-<p align="center">
-  <a href="#-tech-stack"><b>Tech Stack</b></a> •
-  <a href="#-current-focus"><b>Focus</b></a> •
-  <a href="#-activity--telemetry"><b>Telemetry</b></a> •
-  <a href="#-connect"><b>Connect</b></a>
-</p>
+```ansi
+[1;32m[SYS_LOG][0m Host: [1;37mdevypluggy[0m | Arch: [1;34mx86_64[0m | Kernel: [1;33mCustom Voxel/Modkit Engine[0m
+[1;32m[STATUS][0m  Breaking game engines, profiling low-level logic & ignoring high-level bloat.
+```
 
 ---
 
 </div>
 
-## ⚡ Overview
+### 📡 SYSTEM TELEMETRY
 
-I build high-performance software, reverse-engineer game mechanics, and design resilient backends. Focused on low-level memory efficiency, concurrency, and modular architecture rather than routine boilerplates.
+```rust
+struct Developer {
+    alias: &'static str,
+    focus: [&'static str; 4],
+    primary_arsenal: [&'static str; 3],
+    current_status: &'static str,
+}
 
-- 🕹️ **Game Development:** Custom mechanics, internal toolsets, and Godot runtime architecture.
-- ⛏️ **Minecraft Engineering:** High-throughput server-side plugins, custom NMS packets, and asynchronous event loops.
-- ⚙️ **Systems & Automation:** CLI tooling, performant pipelines, and algorithmic automation.
-
----
-
-## 🛠 Tech Stack
-
-### Languages & Runtimes
-<p align="left">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Java_21+-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
-</p>
-
-### Frameworks, Engines & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Godot_Engine-478CBF?style=flat-square&logo=godotengine&logoColor=white" alt="Godot" />
-  <img src="https://img.shields.io/badge/PaperMC%20%2F%20Spigot-D62246?style=flat-square&logo=spigotmc&logoColor=white" alt="PaperMC" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-</p>
+impl Developer {
+    fn inspect() -> Self {
+        Self {
+            alias: "devypluggy",
+            focus: [
+                "Voxel Meshing & 3D DDA Traversal",
+                "Unity Native Memory Hooking (Doorstop/Proxy)",
+                "Godot Internal Architecture & Telemetry",
+                "High-Throughput Minecraft Core Pipelines",
+            ],
+            primary_arsenal: ["C++20", "C#", "Rust"],
+            current_status: "Compiling without CMake; breaking things for fun.",
+        }
+    }
+}
+```
 
 ---
 
-## 🎯 Current Focus
+### 🕹️ RUNTIME & PAYLOADS
 
-```yaml
-devypluggy:
-  current_project: "High-throughput asynchronous event pipeline for custom server engines"
-  deep_diving: ["Cache locality optimization", "Custom network protocols", "Vulkan pipeline"]
-  open_to: ["Novel engine architecture", "Hard performance profiling", "Collaborative modding"]
+```ini
+[CORE_LANGUAGES]
+C++20           = ==========================> [Native / Raylib / DDA]
+C# (.NET)       = =======================>    [Doorstop Proxy / Loaders]
+Rust            = ==================>         [Valence / Concurrency]
+Java (OpenJDK)  = ====================>       [Custom Packets / Spigot Core]
+
+[SPECIALIZED_SUBSYSTEMS]
+Engine Mechanics: Godot Engine, Raylib, Custom Greedy Meshing
+Reverse Tooling : Memory Injection, DLL Proxying, Network Protocols
+Environment     : EndeavourOS, Linux CLI, Strict Determinism
+```
+
+---
+
+### 💾 ACTIVE MEMORY DUMPS
+
+```
+📂 devypluggy/
+ ├── 📦 modkit/            -> C# Doorstop proxy & payload injector for Unity runtimes
+ ├── 📦 voxel-destruct/    -> C++20 destruction prototype (Raylib + Greedy Meshing + 3D DDA)
+ ├── 📦 drill-telemetry/   -> Godot game core with tamper-proof HMAC save validation
+ └── 📦 anarchy-core/      -> High-throughput Valence/Rust Minecraft architecture
+```
+
+---
+
+### ⚡ NETWORK ACTIVITY
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devypluggy/devypluggy/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devypluggy/devypluggy/output/github-contribution-grid-snake.svg">
+  <img alt="Grid Snake" src="https://raw.githubusercontent.com/devypluggy/devypluggy/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devypluggy&theme=matrix&hide_border=true&area=true" width="95%" alt="Activity Matrix" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🔌 ESTABLISH HANDSHAKE
+
+```bash
+$ curl -s https://api.devypluggy.local/connect
+```
+
+**[ 💬 DISCORD: `@ilyplugyE` ]** &nbsp;&bull;&nbsp; **[ ✈️ TELEGRAM: `@grandaxina` ]**
+
+<br>
+
+```
+[PROCESS COMPLETED WITH EXIT CODE 0]
+```
+
+</div>
